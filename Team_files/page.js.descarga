@@ -1,3 +1,0 @@
-jQuery(window).on('load resize', function () {
-    TzTemplateResizeImage(jQuery('.tz-fix .TzArticleMedia'));
-});
